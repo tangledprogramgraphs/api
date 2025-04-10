@@ -73,3 +73,9 @@ cd api
 ```sh
 uv sync
 ```
+
+4.  Running the API
+
+```sh
+uv run fastapi dev
+```
